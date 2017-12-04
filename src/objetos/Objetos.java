@@ -24,6 +24,7 @@ public class Objetos {
         p1.setNombre("Danilo ffff");
         p1.setEdad(0);
 
+        System.out.println("    hola");
         System.out.println(p1.Saludo2() + " que tenga un buen dia \n el proximo año cumple: " + p1.pEdad() + " \n el año pasado usted tenia: " + p1.anioPasado());
 
     }
